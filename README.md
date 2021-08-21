@@ -20,6 +20,7 @@ Homepage:
 
 
 Details Screen:
+
 ![4](https://user-images.githubusercontent.com/89322155/130337024-9daac013-fa8a-439a-97bb-4f2e801ef376.png)
 ![5](https://user-images.githubusercontent.com/89322155/130337026-50ebe39d-ec5d-4ae8-b770-6a64f969ca5b.png)
 
