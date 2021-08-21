@@ -1,16 +1,12 @@
-# decor_app
+# Decor&enjoy UI App Design
 
-A new Flutter project.
+#Flutter code for UI designing practising
 
-## Getting Started
+#Screenshots:
+#Welcome Screen: ![1](https://user-images.githubusercontent.com/89322155/130337020-7d6c8ae1-3172-4f67-b500-df10213a309a.png)
+#Login Screen: ![2](https://user-images.githubusercontent.com/89322155/130337022-599ece90-d784-4754-9e57-3bed3b040c2f.png)
+#Homepage: ![3](https://user-images.githubusercontent.com/89322155/130337023-c606e945-88b9-49df-9668-d7351218bc05.png)
+#Details Screen:
+![4](https://user-images.githubusercontent.com/89322155/130337024-9daac013-fa8a-439a-97bb-4f2e801ef376.png)
+![5](https://user-images.githubusercontent.com/89322155/130337026-50ebe39d-ec5d-4ae8-b770-6a64f969ca5b.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
