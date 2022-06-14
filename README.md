@@ -1,6 +1,6 @@
 # Decor&enjoy UI App Design
 
-Flutter code for UI designing practising
+Flutter UI code 
 
 Screenshots:
 
